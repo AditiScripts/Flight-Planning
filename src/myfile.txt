@@ -1,0 +1,1 @@
+{'UK Airport': 'LJL', 'Overseas Airport': 'CAI', 'Dist2AP': '3779', 'AirCraftType': 'mw', 'No_FirsTClas_Seat': 67}
